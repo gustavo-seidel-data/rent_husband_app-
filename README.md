@@ -10,14 +10,6 @@ This app allows users to:
 - Make secure payments  
 - Track service requests  
 
-## Features  
-✔ **User Registration & Login** – Sign up as a customer or service provider.  
-✔ **Service Listings** – Browse different handyman services.  
-✔ **Booking System** – Schedule appointments with preferred providers.  
-✔ **Ratings & Reviews** – Rate and review service providers.  
-✔ **In-App Messaging** – Communicate directly with service providers.  
-✔ **Payment Integration** – Secure payment processing.  
-✔ **Service History** – Track past and upcoming services.  
 
 ## Technologies Used  
 - **Frontend:** React Native (Expo or bare workflow)  
